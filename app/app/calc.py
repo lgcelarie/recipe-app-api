@@ -1,6 +1,4 @@
-"""
-calculator functions
-"""
+# calculator functions
 
 
 def add(x, y):
@@ -9,5 +7,5 @@ def add(x, y):
 
 
 def subtract(x, y):
-    #resta x de Y
+    # resta x de Y
     return y - x
